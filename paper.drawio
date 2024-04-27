@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T01:59:53.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ShS5GT33PUnVDQk2Kl-D" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T02:33:07.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lSK0gq-PoxImGDagQg4k" version="24.3.1" type="github">
   <diagram name="第 1 页" id="ZvuYgRS8OIRiF2QTl3wt">
-    <mxGraphModel dx="2080" dy="1482" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2291" dy="1566" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3479,6 +3479,156 @@
         </mxCell>
         <mxCell id="reg16O9CVNzz_lslOGIF-48" value="&lt;div style=&quot;text-align: center;&quot;&gt;版本链逻辑&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="-1015" y="6557" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1201" y="6881" width="475" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-50" value="&lt;p style=&quot;language:zh-CN;line-height:130%;margin-top:10.0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 13px;&quot;&gt;Xilinx Zynq UltraScale+ MPSoC ZU7eg&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1094" y="6864" width="353" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1183" y="6914" width="437" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-52" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;可编程逻辑单元（Programmable Logic, PL）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1183" y="7107" width="436" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-53" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;处理系统（Processing System, PS）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1061.0042857142857" y="6910.998861607143" width="267" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1169" y="6944" width="417" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1169" y="7042" width="416" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-56" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Cortex-A53核心&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1007" y="6940" width="105" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-57" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Cortex-R5核心&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1005" y="7040" width="105" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-59" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Cortex-A53&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1142" y="6969" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-60" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;Cortex-A53&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1142" y="7000" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-61" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;Cortex-A53&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="6969" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-62" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;Cortex-A53&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="7000" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-63" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Cortex-R5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-1143" y="7064" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-64" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Cortex-R5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="7064" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1202" y="7195" width="475" height="316" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-66" value="&lt;p style=&quot;language:zh-CN;line-height:130%;margin-top:10.0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 13px;&quot;&gt;Xilinx Zynq UltraScale+ MPSoC ZU7eg&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1095" y="7178" width="353" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-775" y="7218" width="31" height="284" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-68" value="&lt;p style=&quot;language:zh-CN;line-height:130%;margin-top:10.0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 13px;&quot;&gt;互联模块&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;language:zh-CN;line-height:130%;margin-top:10.0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-768" y="7291" width="16" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1186" y="7324" width="404" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1186" y="7219" width="405" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-73" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;DRAM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-1186" y="7435" width="404" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-74" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Nand Flash&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1186" y="7468" width="404" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-75" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;处理系统（Processing System, PS）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1077.0042857142857" y="7214.998861607143" width="267" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-76" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;可编程逻辑单元（Programmable Logic, PL）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1097.996551724138" y="7324.001373922415" width="267" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-77" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-804" y="7262" as="sourcePoint" />
+            <mxPoint x="-754" y="7262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-78" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-804" y="7383" as="sourcePoint" />
+            <mxPoint x="-754" y="7383" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-79" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-805" y="7448" as="sourcePoint" />
+            <mxPoint x="-755" y="7448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-80" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-804" y="7484" as="sourcePoint" />
+            <mxPoint x="-754" y="7484" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1179" y="7241" width="227" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-83" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Cortex-A53核心&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1116" y="7236" width="105" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-84" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;交互IP核&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="7259" width="96" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-85" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;FTL算法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1057" y="7259" width="96" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-86" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;交互Flash&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="7287" width="96" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-87" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;内存管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1057" y="7287" width="96" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-945" y="7241" width="139" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-89" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Cortex-R5核心&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-917" y="7236" width="105" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-90" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;BCH ECC校验&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-935" y="7261" width="122" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-91" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;交互主机&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-935" y="7288" width="122" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-92" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;PCIE核&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1129" y="7349" width="96" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-93" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;NVMe核&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1029" y="7349" width="96" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-94" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;DMA&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: initial;&quot;&gt;核&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="7349" width="96" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-95" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Clock核&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1129" y="7377" width="96" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-96" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;ONFi核&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1029" y="7377" width="96" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-97" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;DDR&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: initial;&quot;&gt;核&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="7377" width="96" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="reg16O9CVNzz_lslOGIF-98" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;用户定制IP核&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1129" y="7405" width="298" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
